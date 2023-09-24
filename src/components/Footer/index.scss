@@ -1,0 +1,18 @@
+#footer{
+    background: black;
+    padding: 60px 0;
+    .footer{
+    }
+}
+@media (max-width:700px) {
+    #footer{
+        .footer{
+            .block{
+                display: flex;
+                flex-wrap: wrap;
+                margin: 0 auto;
+            }
+
+        }
+    }
+}
